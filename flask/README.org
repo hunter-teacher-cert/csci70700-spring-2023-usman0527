@@ -1,3 +1,8 @@
+** 
+Main Page: https://ahmed-flask.usman0527.repl.co/
+About Page: https://ahmed-flask.usman0527.repl.co/about
+Lucky Page: https://ahmed-flask.usman0527.repl.co/lucky
+
 * Instructions
 
 ** If you are presenting this unit:
