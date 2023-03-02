@@ -1,11 +1,12 @@
-** 
 
 
--main.py: https://replit.com/@usman0527/Ahmed-Flask#main.py<li>
--about.html: https://replit.com/@usman0527/Ahmed-Flask#templates/about.html
--lucky.html: https://replit.com/@usman0527/Ahmed-Flask#templates/lucky.html
--index.html: https://replit.com/@usman0527/Ahmed-Flask#templates/index.html
--ahmed-afterschool-form.html: https://replit.com/@usman0527/Ahmed-Flask#templates/ahmed-afterschool-form.html
+
+*** Links
+- main.py: https://replit.com/@usman0527/Ahmed-Flask#main.py
+- about.html: https://replit.com/@usman0527/Ahmed-Flask#templates/about.html
+- lucky.html: https://replit.com/@usman0527/Ahmed-Flask#templates/lucky.html
+- index.html: https://replit.com/@usman0527/Ahmed-Flask#templates/index.html
+- ahmed-afterschool-form.html: https://replit.com/@usman0527/Ahmed-Flask#templates/ahmed-afterschool-form.html
 
 * Instructions
 
